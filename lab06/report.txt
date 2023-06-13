@@ -1,0 +1,4 @@
+Zaimplementowane metody działają
+Algorytm Ukonena jest trudny
+Drzewa sufiksów są szybkie
+Różnicę widać dla załączonego tekstu
